@@ -380,6 +380,10 @@
   background-image: image_url("wordpress/wordpress.png");
   background-color: transparent;
 }
+.pictogram-xanathar {
+  background-image: image_url("xanathar/xanathar.png");
+  background-color: transparent;
+}
 .pictogram-xml {
   background-image: image_url("xml/xml.png");
   background-color: transparent;
